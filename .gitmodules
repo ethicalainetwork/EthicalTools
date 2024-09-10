@@ -1,15 +1,9 @@
 [submodule "Lifestyle/EthicalContacts"]
 	path = Lifestyle/EthicalContacts
 	url = https://github.com/ethicalainetwork/EthicalContacts.git
-[submodule "Productivity/Productivity/EthicalSign"]
-	path = Productivity/Productivity/EthicalSign
-	url = https://github.com/oscarpobleteanahuac/EthicalSign.git
 [submodule "Productivity/EthicalSign"]
 	path = Productivity/EthicalSign
 	url = https://github.com/oscarpobleteanahuac/EthicalSign.git
-[submodule "Marketing/EthicalDocuments"]
-	path = Marketing/EthicalDocuments
-	url = https://github.com/ethicalainetwork/EthicalDocuments.git
-[submodule "Productivity/EthicalDocuments"]
-	path = Productivity/EthicalDocuments
-	url = https://github.com/ethicalainetwork/EthicalDocuments.git
+[submodule "Marketing/EthicalForms"]
+	path = Marketing/EthicalForms
+	url = https://github.com/ethicalainetwork/EthicalForms.git
