@@ -7,3 +7,6 @@
 [submodule "Productivity/EthicalSign"]
 	path = Productivity/EthicalSign
 	url = https://github.com/oscarpobleteanahuac/EthicalSign.git
+[submodule "Marketing/EthicalDocuments"]
+	path = Marketing/EthicalDocuments
+	url = https://github.com/ethicalainetwork/EthicalDocuments.git
