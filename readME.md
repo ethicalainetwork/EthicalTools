@@ -5,6 +5,7 @@
 Authenticate with GitHub CLI:
 
 ```
+sudo snap install gh
 gh auth login
 ```
 
@@ -17,7 +18,7 @@ gh repo fork https://github.com/ethicalainetwork/EthicalTools.git
 Navigate into the Cloned Repository:
 
 ```
-cd <repository-name>
+cd EthicalTools/
 ```
 
 Create a New Branch:
@@ -64,6 +65,5 @@ gh pr create --title "My New Feature" --body "A detailed description of the chan
 
 Important Notes:
 
-Replace placeholders like <original-owner>, <repository-name>, and my-new-feature with the actual names.
+Replace my-new-feature with the actual names.
 You can customize the title and body of the pull request in the gh pr create command.
-Make sure you have the GitHub CLI installed and authenticated before running these commands.
