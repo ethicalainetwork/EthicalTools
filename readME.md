@@ -1,15 +1,14 @@
-How to propose submodule?
+## EthicalTools
+
+### How to propose submodule?
 
 Authenticate with GitHub CLI:
 
-Bash
+```
 gh auth login
-
+```
 
 Fork and Clone the Repository:
-
-
-
 
 ```
 gh repo fork https://github.com/ethicalainetwork/EthicalTools.git
