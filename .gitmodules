@@ -7,3 +7,6 @@
 [submodule "Marketing/EthicalForms"]
 	path = Marketing/EthicalForms
 	url = https://github.com/ethicalainetwork/EthicalForms.git
+[submodule "Lifestyle/EthicalMails"]
+	path = Lifestyle/EthicalMails
+	url = https://github.com/ethicalainetwork/EthicalMails.githttps://github.com/ethicalainetwork/EthicalMails.git
