@@ -1,5 +1,13 @@
 ## EthicalTools
 
+### How to install?
+```
+git clone https://github.com/ethicalainetwork/EthicalTools.git
+cd EthicalTools/
+git submodule update --init
+```
+
+
 ### How to propose submodule?
 
 Authenticate with GitHub CLI:
@@ -37,9 +45,6 @@ Add module:
 git submodule add https://github.com/oscarpobleteanahuac/EthicalSign.git EthicalSign
 ```
 
-
-
-
 Stage module:
 
 ```
@@ -63,7 +68,7 @@ Create a Pull Request:
 gh pr create --title "My New Feature" --body "A detailed description of the changes in this pull request"
 ```
 
-Important Notes:
+Notes:
 
 Replace my-new-feature with the actual names.
 You can customize the title and body of the pull request in the gh pr create command.
