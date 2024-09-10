@@ -10,3 +10,6 @@
 [submodule "Marketing/EthicalDocuments"]
 	path = Marketing/EthicalDocuments
 	url = https://github.com/ethicalainetwork/EthicalDocuments.git
+[submodule "Productivity/EthicalDocuments"]
+	path = Productivity/EthicalDocuments
+	url = https://github.com/ethicalainetwork/EthicalDocuments.git
