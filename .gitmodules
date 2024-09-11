@@ -12,4 +12,7 @@
 	url = https://github.com/ethicalainetwork/EthicalForms.git
 [submodule "Lifestyle/EthicalMails"]
 	path = Lifestyle/EthicalMails
-	url = https://github.com/ethicalainetwork/EthicalMails.githttps://github.com/ethicalainetwork/EthicalMails.git
+	url = https://github.com/ethicalainetwork/EthicalMails.git
+[submodule "Lifestyle/EthicalCalendar"]
+	path = Lifestyle/EthicalCalendar
+	url = https://github.com/ethicalainetwork/EthicalCalendar.git
