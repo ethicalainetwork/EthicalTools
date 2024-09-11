@@ -16,3 +16,6 @@
 [submodule "Lifestyle/EthicalCalendar"]
 	path = Lifestyle/EthicalCalendar
 	url = https://github.com/ethicalainetwork/EthicalCalendar.git
+[submodule "Productivity/EthicalMails"]
+	path = Productivity/EthicalMails
+	url = https://github.com/ethicalainetwork/EthicalMails.git
